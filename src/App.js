@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import GoalList from './components/GoalList';
 import Header from './components/Header';
